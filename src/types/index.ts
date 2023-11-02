@@ -46,7 +46,8 @@ export interface DataProps {
   activity: {
     id: number;
     name: string;
-    description: string;
+    link: string;
+    description: string[];
     period: string[];
   }[];
   education: {

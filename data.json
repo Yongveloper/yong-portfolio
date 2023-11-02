@@ -22,6 +22,16 @@
       "isTeam": false,
       "period": ["2021. 07", "2021. 08"],
       "stack": ["Next.js", "React.js", "TypeScript", "styled-components"]
+    },
+    {
+      "id": 1,
+      "name": "WINIW",
+      "description": "위치 기반 근처 동네 사람들과 물물교환을 도와주는 서비스입니다.",
+      "webUrl": "",
+      "repoUrl": "https://github.com/trade-market/trade-market-FE",
+      "isTeam": true,
+      "period": ["2023. 08", "진행중"],
+      "stack": ["React.js", "TypeScript", "Redux-toolkit", "RTK-Query", "styled-components"]
     }
   ],
 
@@ -29,14 +39,20 @@
     {
       "id": 0,
       "name": "노개북 - 클린코드 1기",
+      "link": "https://yong-nyong.tistory.com/category/%EB%8F%85%EC%84%9C/Clean%20Code%3A%20%EC%95%A0%EC%9E%90%EC%9D%BC%20%EC%86%8C%ED%94%84%ED%8A%B8%20%EC%9B%A8%EC%96%B4%20%EC%9E%A5%EC%9D%B8%20%EC%A0%95%EC%8B%A0",
       "period": ["2022. 01", "2022. 02"],
-      "description": "노마드 코더에서 진행하는 클린코드 1기에 참여하여 'Clean Code - 애자일 소프트웨어 장인 정신' 책을 매일 정해진 목차를 읽고 블로그에 TIL을 작성하며 클린코드에 대한 이해를 높였습니다."
+      "description": [
+        "노마드 코더에서 진행하는 클린코드 1기에 참여하여 'Clean Code - 애자일 소프트웨어 장인 정신' 책을 매일 정해진 목차를 읽고 블로그에 TIL을 작성하며 클린코드에 대한 이해를 높였습니다."
+      ]
     },
     {
       "id": 1,
       "name": "오픈소스 기여",
+      "link": "https://github.com/facebookexperimental/Recoil/pull/1735",
       "period": ["2022. 04"],
-      "description": "Facebook에서 만든 Recoil 라이브러리의 한국어 문서의 오타를 발견하고 수정하였습니다."
+      "description": [
+        "Facebook에서 만든 Recoil 라이브러리의 한국어 문서의 오타를 발견하고 수정하였습니다."
+      ]
     }
   ],
 
