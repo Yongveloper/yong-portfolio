@@ -3,6 +3,10 @@
 @tailwind utilities;
 
 @layer base {
+  * {
+    font-family: "NanumGothic";
+  }
+
   h1 {
     @apply font-semibold text-5xl py-2;
   }
@@ -49,7 +53,7 @@
   }
 
   blockquote {
-    @apply bg-GRAY_LIGHT py-4 px-6 my-2 rounded-md w-full dark:bg-GRAY_EXTRAHEAVY;
+    @apply bg-GRAY_LIGHT py-4 px-6 mt-2 mb-4 rounded-md w-full dark:bg-GRAY_EXTRAHEAVY;
   }
 
   ul,
