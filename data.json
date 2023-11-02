@@ -51,7 +51,7 @@
       "link": "https://github.com/facebookexperimental/Recoil/pull/1735",
       "period": ["2022. 04"],
       "description": [
-        "Facebook에서 만든 Recoil 라이브러리의 한국어 문서의 오타를 발견하고 수정하였습니다."
+        "Facebook에서 개발한 전역 상태 관리 라이브러리 Recoil의 한국어 문서의 오타를 발견하고 수정하였습니다."
       ]
     }
   ],
