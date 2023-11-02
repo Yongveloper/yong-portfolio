@@ -1,7 +1,6 @@
 import Image from "next/image";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
-
 import Links from "./Links";
 
 import { ProjectProps } from "@/types";

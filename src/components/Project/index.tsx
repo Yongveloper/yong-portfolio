@@ -7,7 +7,7 @@ const Project = ({ project }: Pick<DataProps, "project">) => {
   return (
     <>
       <div>
-        <SectionTitle>Team Project</SectionTitle>
+        <SectionTitle>팀 프로젝트</SectionTitle>
         <div className="flex flex-col gap-24">
           {[...project]
             .reverse()
@@ -18,7 +18,7 @@ const Project = ({ project }: Pick<DataProps, "project">) => {
         </div>
       </div>
       <div>
-        <SectionTitle>Personal Project</SectionTitle>
+        <SectionTitle>개인 프로젝트</SectionTitle>
         <div className="flex flex-col gap-24">
           {[...project]
             .reverse()

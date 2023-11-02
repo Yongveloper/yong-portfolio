@@ -1,7 +1,3 @@
-- Hoo-ooh-ooh-ooh
-- Hoo-ooh-ooh-ooh
-- Stay in the middle
-- Like you a little
-- Don't want no riddle
-- 말해줘 say it back, oh, say it ditto
-- 아침은 너무 멀어 so say it ditto
+- 일상에서 사용자들의 **삶의 질**을 증진 시키는 데 기여하고 싶은 프론트엔드 개발자입니다.
+- **꾸준한 학습**을 위해 배운 내용을 **블로그**에 기록하고 **프로젝트**를 만들어 보며 학습하고 있습니다.
+- **깨끗한 코드**를 작성하는 것을 중요하게 생각합니다. 변수명과 함수명을 **명확하게** 작성하고, 코드의 **재사용성**과 **유지보수성**을 위해 함수와 컴포넌트를 작게 나누려고 합니다. 
