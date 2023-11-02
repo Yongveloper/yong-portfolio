@@ -1,107 +1,51 @@
 {
   "resumeTitle": {
-    "title": "Hong Gil Dong"
+    "title": "용현준 | 프론트엔드 개발자"
   },
 
   "information": {
-    "name": "홍길동",
+    "name": "용현준",
     "contact": [
-      { "id": 0, "name": "Email", "href": "honggildong@gmail.com", "isEmail": true },
-      { "id": 1, "name": "Github", "href": "https://github.com/honggildong" },
-      { "id": 2, "name": "Blog", "href": "https://velog.io/@honggildong" }
+      { "id": 0, "name": "Email", "href": "yongyong5766@gmail.com", "isEmail": true },
+      { "id": 1, "name": "Github", "href": "https://github.com/yongveloper" },
+      { "id": 2, "name": "Blog", "href": "https://yong-nyong.tistory.com/" }
     ]
   },
-
-  "workExperience": [
-    {
-      "id": 0,
-      "name": "커피프린스 1호점",
-      "position": "Front-end Engineer",
-      "period": ["2019. 01", "2019. 09"]
-    },
-    {
-      "id": 1,
-      "name": "커피프린스 2호점",
-      "position": "바리스타",
-      "period": ["2022. 01", "now"]
-    }
-  ],
 
   "project": [
     {
       "id": 0,
-      "name": "첫번째 팀 프로젝트",
-      "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
-      "webUrl": "https://github.com/sjoleee/",
-      "repoUrl": "https://github.com/sjoleee/",
-      "isTeam": true,
-      "period": ["2022. 07", "2022. 09"],
-      "stack": ["사용한 기술을 적어주세요", "React.js", "JavaScript", "styled-components", "Recoil"]
-    },
-    {
-      "id": 1,
-      "name": "첫번째 개인 프로젝트",
-      "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
-      "webUrl": "https://github.com/sjoleee/",
-      "repoUrl": "https://github.com/sjoleee/",
+      "name": "롤에서 알아보는 MBTI 테스트",
+      "description": "MBTI 테스트의 유행과 리그 오브 레전드(LOL) 게임을 결합한 새로운 형태의 테스트를 제공하였습니다.",
+      "webUrl": "https://lol-mbti.vercel.app/",
+      "repoUrl": "https://github.com/Yongveloper/LOL-MBTI",
       "isTeam": false,
-      "period": ["2022. 10", "2022. 11"],
-      "stack": ["JavaScript", "HTML/CSS"]
+      "period": ["2021. 07", "2021. 08"],
+      "stack": ["Next.js", "React.js", "TypeScript", "styled-components"]
     }
   ],
 
   "activity": [
     {
       "id": 0,
-      "name": "첫번째 활동",
-      "period": ["2022. 06", "2022. 08"],
-      "description": "첫번째 활동에 대한 간략한 설명"
+      "name": "노개북 - 클린코드 1기",
+      "period": ["2022. 01", "2022. 02"],
+      "description": "노마드 코더에서 진행하는 클린코드 1기에 참여하여 'Clean Code - 애자일 소프트웨어 장인 정신' 책을 매일 정해진 목차를 읽고 블로그에 TIL을 작성하며 클린코드에 대한 이해를 높였습니다."
     },
     {
       "id": 1,
-      "name": "두번째 활동",
-      "period": ["2022. 06", "2022. 08"],
-      "description": "두번째 활동에 대한 간략한 설명"
+      "name": "오픈소스 기여",
+      "period": ["2022. 04"],
+      "description": "Facebook에서 만든 Recoil 라이브러리의 한국어 문서의 오타를 발견하고 수정하였습니다."
     }
   ],
 
   "education": [
     {
       "id": 0,
-      "name": "첫번째 교육",
-      "period": ["2013. 02", "2020. 02"],
-      "description": "첫번째 교육에 대한 간략한 설명"
-    },
-    {
-      "id": 1,
-      "name": "두번째 교육",
-      "period": ["2013. 02", "2020. 02"],
-      "description": "두번째 교육에 대한 간략한 설명"
-    }
-  ],
-
-  "certificate": [
-    {
-      "id": 0,
-      "name": "TOEIC 1000점",
-      "date": "2019. 07. 28",
-      "organizer": "ETS"
-    },
-    {
-      "id": 1,
-      "name": "OPIC IH",
-      "date": "2019. 07. 28",
-      "organizer": "ETS"
-    }
-  ],
-
-  "award": [
-    {
-      "id": 0,
-      "name": "첫번째 수상",
-      "date": "2019. 07. 28",
-      "organizer": "수여기관",
-      "description": "첫번째 수상에 대한 간략한 설명"
+      "name": "수원과학대학교",
+      "period": ["2020. 02", "2024. 02"],
+      "description": "컴퓨터정보과 재학 중"
     }
   ]
 }
