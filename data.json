@@ -26,7 +26,7 @@
     {
       "id": 1,
       "name": "WINIW",
-      "description": "위치 기반 근처 동네 사람들과 물물교환을 도와주는 서비스입니다.",
+      "description": "위치 기반 근처 동네 사람들과 물물교환을 도와주는 서비스입니다. (프로젝트 진행중)",
       "webUrl": "",
       "repoUrl": "https://github.com/trade-market/trade-market-FE",
       "isTeam": true,
@@ -38,6 +38,13 @@
   "activity": [
     {
       "id": 0,
+      "name": "노마드코더 - 리액트 챌린지 8기",
+      "link": "https://nomadcoders.co/community/thread/613",
+      "period": ["2021. 03", "2021. 04"],
+      "description": ["노마드 코더에서 진행한 '리액트 챌린지 8기' 우수 졸업생 선정 및 수료"]
+    },
+    {
+      "id": 1,
       "name": "노개북 - 클린코드 1기",
       "link": "https://yong-nyong.tistory.com/category/%EB%8F%85%EC%84%9C/Clean%20Code%3A%20%EC%95%A0%EC%9E%90%EC%9D%BC%20%EC%86%8C%ED%94%84%ED%8A%B8%20%EC%9B%A8%EC%96%B4%20%EC%9E%A5%EC%9D%B8%20%EC%A0%95%EC%8B%A0",
       "period": ["2022. 01", "2022. 02"],
@@ -46,7 +53,7 @@
       ]
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "오픈소스 기여",
       "link": "https://github.com/facebookexperimental/Recoil/pull/1735",
       "period": ["2022. 04"],
@@ -61,7 +68,7 @@
       "id": 0,
       "name": "수원과학대학교",
       "period": ["2020. 02", "2024. 02"],
-      "description": "컴퓨터정보과 재학 중"
+      "description": "컴퓨터정보과"
     }
   ]
 }
