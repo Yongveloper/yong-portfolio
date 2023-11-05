@@ -31,7 +31,7 @@
       "repoUrl": "https://github.com/trade-market/trade-market-FE",
       "isTeam": true,
       "period": ["2023. 08", "진행중"],
-      "stack": ["React.js", "TypeScript", "Redux-toolkit", "RTK-Query", "styled-components"]
+      "stack": ["React.js", "TypeScript", "Redux-toolkit", "RTK-Query", "MSW", "styled-components"]
     }
   ],
 
@@ -60,6 +60,16 @@
       "description": [
         "Facebook에서 개발한 전역 상태 관리 라이브러리 Recoil의 한국어 문서의 오타를 발견하고 수정하였습니다."
       ]
+    },
+    {
+      "id": 3,
+      "name": "2023 - 개취콘 FE",
+      "link": "",
+      "period": ["2023. 05"],
+      "description": [
+        "'점핏'에서 개최한 '개발자 취업 콘서트 - FE'에 오프라인 참여했습니다.",
+        "컨퍼런스 참여를 통해 최신 개발 트렌드를 확인하고 소프트 스킬을 배우며 앞으로의 개발 방향과 협업 방식에 도움이 되었습니다."
+      ]
     }
   ],
 
@@ -68,7 +78,7 @@
       "id": 0,
       "name": "수원과학대학교",
       "period": ["2020. 02", "2024. 02"],
-      "description": "컴퓨터정보과"
+      "description": "컴퓨터정보과 4.5 / 4.5"
     }
   ]
 }
