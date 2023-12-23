@@ -21,8 +21,8 @@ const Home: NextPage<DataProps> = ({ resumeTitle, information, project, activity
       <Layout>
         <Information information={information} />
         <Project project={project} />
-        <Activity activity={activity} />
-        <Education education={education} />
+        {/* <Activity activity={activity} /> */}
+        {/* <Education education={education} /> */}
       </Layout>
       <Footer contact={information.contact} name={information.name} />
     </>
