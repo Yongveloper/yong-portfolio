@@ -8,8 +8,8 @@ const Information = ({ information }: Pick<DataProps, "information">) => {
     <div className="flex flex-col gap-8">
       <div className="flex flex-col gap-2">
         <h1 className="leading-[1.15]">
-          사용자 경험을 중요시하는
-          <br /> 프론트엔드 개발자{" "}
+          변화를 두려워 하지 않는 개발자
+          <br />
           <span className="text-PRIMARY font-semibold drop-shadow-lg">{information.name}</span>
           입니다.
         </h1>
