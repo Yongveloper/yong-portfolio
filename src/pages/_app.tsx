@@ -3,17 +3,14 @@ import { DefaultSeo } from "next-seo";
 import { ThemeProvider } from "next-themes";
 import type { AppProps } from "next/app";
 
-/**
- * @description SEO를 위해 본인의 정보로 수정해주세요.
- */
 const DEFAULT_SEO = {
   title: "용현준 | 프론트엔드 개발자",
   description: "안녕하세요, 프론트엔드 개발자 용현준입니다.",
-  canonical: "https://www.naver.com/",
+  canonical: "https://yong-portfolio.vercel.app/",
   openGraph: {
     type: "website",
     locale: "ko_KR",
-    url: "https://www.naver.com/",
+    url: "https://yong-portfolio.vercel.app/",
     title: "용현준 | 프론트엔드 개발자",
     site_name: "용현준 | 프론트엔드 개발자",
     images: [

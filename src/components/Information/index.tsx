@@ -5,11 +5,12 @@ import { DataProps } from "@/types";
 
 const Information = ({ information }: Pick<DataProps, "information">) => {
   return (
-    <div className="flex flex-col gap-8">
-      <div className="flex flex-col gap-2">
+    <div className="flex flex-col">
+      <div className="flex flex-col gap-2 mb-6">
         <h1 className="leading-[1.15]">
-          변화를 두려워 하지 않는 개발자
+          안녕하세요,
           <br />
+          프론트엔드 개발자{" "}
           <span className="text-PRIMARY font-semibold drop-shadow-lg">{information.name}</span>
           입니다.
         </h1>
