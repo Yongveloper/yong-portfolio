@@ -1,4 +1,5 @@
 import "@/styles/globals.css";
+import { Noto_Sans_KR } from "@next/font/google";
 import { DefaultSeo } from "next-seo";
 import { ThemeProvider } from "next-themes";
 import type { AppProps } from "next/app";
@@ -44,12 +45,29 @@ const DEFAULT_SEO = {
   ],
 };
 
+export const notoSansKr = Noto_Sans_KR({
+  weight: ["400", "500", "700"],
+  display: "swap",
+  fallback: [
+    "-apple-system",
+    "Malgun Gothic",
+    "Apple SD Gothic Neo",
+    "Roboto",
+    "Apple Color Emoji",
+    "Segoe UI Emoji",
+    "Segoe UI Symbol",
+    "sans-serif",
+  ],
+});
+
 const App = ({ Component, pageProps }: AppProps) => {
   return (
     <>
       <DefaultSeo {...DEFAULT_SEO} />
       <ThemeProvider attribute="class">
-        <Component {...pageProps} />
+        <main className={notoSansKr.className}>
+          <Component {...pageProps} />
+        </main>
       </ThemeProvider>
     </>
   );
