@@ -28,7 +28,7 @@
       "name": "WINIW",
       "description": "위치 기반 근처 동네 사람들과 물물교환을 도와주는 서비스입니다. (프로젝트 진행중)",
       "webUrl": "https://dot-amber-1d1.notion.site/WINIW-c365b8beed9147b3a0951b6301d1f0b4",
-      "repoUrl": "https://github.com/trade-market/trade-market-FE",
+      "repoUrl": "https://winiw.vercel.app/",
       "isTeam": true,
       "period": ["2023. 08", "진행중"],
       "stack": ["React.js", "TypeScript", "Redux-toolkit", "RTK-Query", "MSW", "styled-components"]
